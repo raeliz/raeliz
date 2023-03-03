@@ -29,8 +29,7 @@ Here are some ideas to get you started:-->
 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-
-
+</br>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=raeliz)](https://github.com/raeliz)
 
