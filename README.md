@@ -7,9 +7,12 @@
 
 Here are some ideas to get you started:-->
 - 🔭 I’m currently working on: AirBnB clone API
-- 🌱 I’m currently learning: Python and Flask
+- 🌱 I’m currently learning: Python, Flask, PostgreSQL, SQLAlchemy
 
 </br>
+</br>
+
+## Toolbelt
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=9cf)
 ![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&color=ff69b4)
