@@ -20,13 +20,7 @@ Here are some ideas to get you started:-->
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Sequelize-informational?style=flat&logo=sequelize&color=orange)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-
-</br>
-
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
-</br>
-
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 </br>
