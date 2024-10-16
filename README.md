@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:-->
 - 🔭 I’m currently working on: Testing Automation on a mock To-Do application
-- 🌱 I’m currently learning: Playwright
+- 🌱 I’m currently learning: YAML and CI/CD
 
 </br>
 </br>
